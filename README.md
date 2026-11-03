@@ -38,8 +38,6 @@ O programa disponibiliza três opções: cifrar, decifrar ou sair.
 
 ## Código-fonte
 
-**[Acessar o repositório](https://github.com/Playsasuke/APS2)**
-
 **[Visualizar o programa](https://github.com/Playsasuke/APS2/blob/main/criptografia.py)**
 
 *Projeto acadêmico de finalidade didática. A Cifra de Vigenère não é indicada para proteção de informações sensíveis em sistemas modernos.*
