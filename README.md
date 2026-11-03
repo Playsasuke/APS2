@@ -96,5 +96,3 @@ A atividade possibilitou compreender o funcionamento de uma cifra clássica, a i
 ## Código-fonte
 
 O programa completo está disponível no arquivo [criptografia.py](https://github.com/Playsasuke/APS2/blob/main/criptografia.py).
-
-**Repositório:** https://github.com/Playsasuke/APS2
